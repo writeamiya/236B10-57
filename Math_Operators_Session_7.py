@@ -9,3 +9,5 @@ print("Value of floor_division_var after floor division operation", floor_divisi
 # print(add_var)
 print(f"Final Values of add_var = {add_var}\nfinal value of modulo operation = {modulo_var}")
 print(f"final value of floor division operation = {floor_division_var}\n")
+print(add_var**4/modulo_var**2)
+print(1.23+2.80)
